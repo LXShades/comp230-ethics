@@ -1,9 +1,9 @@
-# Proposal: Women and minorities in the game industry: How, why and where
-Since the booming of social media sites such as Twitter, respresentation of women in videogames has become a hot topic. Games outside the casual mobile gaming sphere currently highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
+# Proposal: What affects the low participation of women in the game industry and how could this change?
+Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
 
-My essay will explore this topic and attempt to propose strategies to facilitate the participation of women in the industry - if that is a goal. The essay will make the key suggestion that the cultures of developer and player are closely linked. In other words, should developers change, the audience should change with it, and vice versa.  
+My essay will explore this topic and attempt to propose strategies to facilitate the participation of women in the industry, in the likely case that it is not primarily due to a lack of interest. The essay will make the key suggestion that the cultures of developer and player are closely linked. In other words, should developers change, the audience should change with it, and vice versa.  
 
-Unfortunately, due to its traditionally binary and subjective nature, it is difficult to reach firm agreeable conclusions on the topic without the influence of gender bias of the author themself. The essay will therefore focus on deriving subjective theories based on comparison and analysis of data trends and broad psychological research.  
+Unfortunately, due to its traditionally binary and subjective nature, it is difficult to reach firm agreeable conclusions on the topic without the influence of gender bias of the author themself. The essay will instead focus on deriving subjective theories based on comparison and analysis of data trends and broad psychological research.  
 
 ## Key Questions include:  
 * Desire: Is there an autonomous desire to work in the game industry by women? Does a desire to have more women match the desires of women to develop games?  
