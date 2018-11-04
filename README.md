@@ -1,3 +1,24 @@
+# I'm trying to write this essay now
+Essay, Unprofessional Edition  
+
+Women are in the games industry but really not that much. A bunch of the sources I read said that it's going down. However, a UK source suggested that women are increasing in IT sectors at least between 2013 and 2018. [cite the thing]
+
+But it is arguable that games are not particularly embedded in the IT sector. Many people [cite] say will argue that games are in fact an art. Yet in a broad sense, the art industry has a significantly higher proportion of women [cite]. Similarly, other media-related professions such as TV and film also have higher proportions of women.  
+
+A distinction must be made between the development of technology and the usage of it. For example, this art is largely produced with technology. This includes Digital Art (concept art), 3D models, and level design blockouts in engines such as Unreal. However, the development of technology is primarily centred around programming. Are IT sectors focused on developing technologies rather than using them? I don't know. Wait, are we looking for answers here? We got nothing here guys.  
+
+Various sociological factors could play a part in reduced participation. Atop debates around toxicity against women in the games workplaces [cite something], and in a frustratingly cyclical pattern, the issue of lower proportions of women joining the games industry could be partly caused by the higher proportion of men in the industry. This may centre of the sense of belonging [cite] wherein a member of a minority may be demotivated by the lack of role models, feeling marginalised. Furthermore, the status quo perpetuates stereotypes A kneejerk reaction would be to increase the proportion of skilled women in the workplace.  
+
+At the core of the ethical issues is in achieving the shift in demographics. 
+
+Stats from HESAderp repor. We could explore the difference between the proportion of female undergraduates compared to the proportion of men in the industry. The former could be considered a measure of interest in the industry while the latter could be considered the vital prevalence. Maybe- not entirely. After all, the industry is well-formed: people young and old work in the industry and the demographics will not change as rapidly as university demographics, which can respond much faster to the social conditioning of children and then students.  
+
+However, the proportion of women studying computer science may also have dropped. This needs [citing] as we don't know! If this is the case, the issue reaches further than just the industry, infecting education as well.  
+
+17% of women studied computer science in 2016/2017. This contrast is emphasised considering 56% of university students overall are female. A study in 2018 suggested that while men are 'more likely to be interested in the technology itself', women are 'more likely to be interested in its uses' [cite].  
+
+Furthermore, a lack of significant female role models in programming would herpaderp derp boost flippin' cheeseburgers.
+
 # Proposal: What affects the low participation of women in the game industry and how could this change?
 Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
 

@@ -1,0 +1,51 @@
+========== 15% Depth of Insight into Ethics and Professionalism ==========
+Extensive depth of insight into ethical conduct and professional values.
+
+Critical insights explore, in detail, the pertinence of a specific and important ethical and/or professional challenge in digital games development.
+
+Insights highlight a potentially effective solution to address the challenge
+
+========== 15% Adequacy of Analysis of Research Articles ==========
+Extensive analysis has been presented.
+
+The limitations of most analyses is explicitly acknowledged.
+
+Some limitations are addressed.
+
+========== 10% Relevance of and Focus on the Research Question ===========
+Extensive focus on a single, specific research question.
+
+The research question is explicitly defined. 
+
+Conclusion explicitly refers back to the question. 
+
+Appropriate references to case studies and examples of issues in the games industry are used to argue and demonstrate the relevance of the research question.
+
+========== 5% Appropriateness of Academic Writing ==========
+Significant evidence of mastery of academic writing.
+
+The reference section is complete and well-formed in either ACM or IEEE format.
+
+All in-text citations and quotations are correct.
+
+========== 5% Specificity, Verifiability & Accuracy of Claims ===========
+All claims have a clear source of evidence.
+
+Almost no errors and/or misinterpretations.
+
+Appropriate forms of evidence are used to support many claims
+
+========== 5% Appropriateness of Spelling & Grammar ==========
+No spelling or grammar
+errors.
+
+Active voice is prevalent.
+
+Grammar is leveraged deliberately to draw attention to salient points.
+
+========== 5% Appropriateness of Essay Structure =========
+There is considerable structure, leveraged to effectively highlight the argument and key takeaway points.
+
+All sentences and paragraphs are well constructed.
+
+There is a clear and well-constructed introduction and conclusion
