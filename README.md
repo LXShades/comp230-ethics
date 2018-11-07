@@ -19,19 +19,24 @@ However, the proportion of women studying computer science may also have dropped
 
 Furthermore, a lack of significant female role models in programming would herpaderp derp boost flippin' cheeseburgers.
 
-# Proposal: What affects the low participation of women in the game industry and how could this change?
-Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
-
-My essay will explore this topic and attempt to propose strategies to facilitate the participation of women in the industry, in the likely case that it is not primarily due to a lack of interest. The essay will make the key suggestion that the cultures of developer and player are closely linked. In other words, should developers change, the audience should change with it, and vice versa.  
-
-Unfortunately, due to its traditionally binary and subjective nature, it is difficult to reach firm agreeable conclusions on the topic without the influence of gender bias of the author themself. The essay will instead focus on deriving subjective theories based on comparison and analysis of data trends and broad psychological research.  
 
 ## Culture
 An insight into the #GamerGate controversy is telling. During this incident in 2015(?), several women were harrassed by large mobs of anonymous Internet trolls for their stances on representational ethics in gaming.  
 
 One could assume that the increased conversation around this topic would improve awareness and begin remedying the issue through encouragement of rational discussion. (However: look into conversation, awareness, and avoidance of conflict. Consider potentially divisive effects. Consider how this seeming commonness of internet trolling and harassment could affect women now that they are further aware).  
 
-How does the culture differ between gaming and women in STEM? Are they equivalent or different?
+How does the culture differ between gaming and women in STEM? Are they equivalent or different?  
+
+
+Oh cool, news!
+http://www.kotaku.co.uk/2018/11/06/current-and-former-employees-sue-riot-games-for-gender-discrimination
+
+# Proposal: What affects the low participation of women in the game industry and how could this change?
+Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
+
+My essay will explore this topic and attempt to propose strategies to facilitate the participation of women in the industry, in the likely case that it is not primarily due to a lack of interest. The essay will make the key suggestion that the cultures of developer and player are closely linked. In other words, should developers change, the audience should change with it, and vice versa.  
+
+Unfortunately, due to its traditionally binary and subjective nature, it is difficult to reach firm agreeable conclusions on the topic without the influence of gender bias of the author themself. The essay will instead focus on deriving subjective theories based on comparison and analysis of data trends and broad psychological research.  
 
 ## Key Questions include:  
 * Desire: Is there an autonomous desire to work in the game industry by women? Does a desire to have more women match the desires of women to develop games?  
