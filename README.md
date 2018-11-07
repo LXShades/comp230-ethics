@@ -26,6 +26,13 @@ My essay will explore this topic and attempt to propose strategies to facilitate
 
 Unfortunately, due to its traditionally binary and subjective nature, it is difficult to reach firm agreeable conclusions on the topic without the influence of gender bias of the author themself. The essay will instead focus on deriving subjective theories based on comparison and analysis of data trends and broad psychological research.  
 
+## Culture
+An insight into the #GamerGate controversy is telling. During this incident in 2015(?), several women were harrassed by large mobs of anonymous Internet trolls for their stances on representational ethics in gaming.  
+
+One could assume that the increased conversation around this topic would improve awareness and begin remedying the issue through encouragement of rational discussion. (However: look into conversation, awareness, and avoidance of conflict. Consider potentially divisive effects. Consider how this seeming commonness of internet trolling and harassment could affect women now that they are further aware).  
+
+How does the culture differ between gaming and women in STEM? Are they equivalent or different?
+
 ## Key Questions include:  
 * Desire: Is there an autonomous desire to work in the game industry by women? Does a desire to have more women match the desires of women to develop games?  
 * Cultural impact: How does male-dominated work culture impact women, and why?  
