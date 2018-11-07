@@ -28,8 +28,20 @@ One could assume that the increased conversation around this topic would improve
 How does the culture differ between gaming and women in STEM? Are they equivalent or different?  
 
 
-Oh cool, news!
+Oh cool, news!  
 http://www.kotaku.co.uk/2018/11/06/current-and-former-employees-sue-riot-games-for-gender-discrimination
+
+Useful sources:  
+http://www.unite-it.eu/profiles/blogs/why-are-so-few-women-developing-video-games#_ftn4
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131613
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.715.6087&rep=rep1&type=pdf
+
+https://www.researchgate.net/publication/315810241_Women_are_from_FarmVille_Men_are_from_ViceCity_The_cycle_of_exclusion_and_sexism_in_video_game_content_and_culture
+- The video game industry: Male producers = male content?
+
+https://dl.acm.org/citation.cfm?id=1536513.1536561
+- Addresses the link between CS and the gaming industry
 
 # Proposal: What affects the low participation of women in the game industry and how could this change?
 Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
