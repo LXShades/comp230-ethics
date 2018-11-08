@@ -43,6 +43,13 @@ https://www.researchgate.net/publication/315810241_Women_are_from_FarmVille_Men_
 https://dl.acm.org/citation.cfm?id=1536513.1536561
 - Addresses the link between CS and the gaming industry
 
+https://www.jstor.org/stable/256368?seq=1#page_scan_tab_contents
+- Superiors perceive different subordinates as lower performers
+
+http://www.paconference.ir/uploadfiles/2015-9-28/Being%20Different%20Relational%20Demography%20and%20Organizational%20Attachment.pdf
+- If an individual uses sex as a category for self-identification, satisfaction with the organization as a psychological group will be the highest when the organization comprises members of the particular sex category chosen.
+- Baron and Bielby (1985) estimated that 60 to 70 percent of men -(or women) would have to change occupational categories in order to equalize the occupational distribution by sex in the U.S
+
 # Proposal: What affects the low participation of women in the game industry and how could this change?
 Since the booming of social media sites such as Twitter, the respresentation of women in the gaming community has become a hot topic. Games outside the casual mobile gaming sphere highlight two notable trends: one, it is largely dominated by male players; and two, that is changing rapidly. However, behind the discussions of misogyny, abuse and oppression in gaming culture hides a crucial question: why are men still the majority of people making them?  
 
