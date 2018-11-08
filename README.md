@@ -46,6 +46,9 @@ https://dl.acm.org/citation.cfm?id=1536513.1536561
 https://www.jstor.org/stable/256368?seq=1#page_scan_tab_contents
 - Superiors perceive different subordinates as lower performers
 
+https://hbr.org/2017/06/does-diversity-actually-increase-creativity
+- Helpful research-based article on the pros and cons of diversity
+
 http://www.paconference.ir/uploadfiles/2015-9-28/Being%20Different%20Relational%20Demography%20and%20Organizational%20Attachment.pdf
 - If an individual uses sex as a category for self-identification, satisfaction with the organization as a psychological group will be the highest when the organization comprises members of the particular sex category chosen.
 - Baron and Bielby (1985) estimated that 60 to 70 percent of men -(or women) would have to change occupational categories in order to equalize the occupational distribution by sex in the U.S
